@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Vasudha5812
-- 👀 I’m interested in CP, AI, Web Devlopment
+- 👀 I’m interested in CP, AIML, Web Devlopment
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
